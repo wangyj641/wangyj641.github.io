@@ -43,6 +43,17 @@
 
 To learn how to use, develop, and upgrade the project, please refer to the [Wiki][wiki].
 
+## Usage
+### Build
+`
+bundle exec jekyll serve
+`
+### Local Show
+http://127.0.0.1:4000/
+
+
+
+
 ## Contributing
 
 Contributions (_pull requests_, _issues_, and _discussions_) are what make the open-source community such an amazing place
