@@ -44,15 +44,20 @@
 To learn how to use, develop, and upgrade the project, please refer to the [Wiki][wiki].
 
 ## Usage
+
+### New/Edit a post
+edit/new a markdown file in _post directory
+
 ### Build
-`
+```bash
 bundle exec jekyll serve
-`
-### Local Show
-http://127.0.0.1:4000/
+```
 
+### Check the result
+Open [http://127.0.0.1:4000](http://localhost:3000) with your browser to see the result.
 
-
+### Upload
+Push the modification to github
 
 ## Contributing
 
