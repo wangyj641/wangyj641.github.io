@@ -1,14 +1,14 @@
 ---
-title: Git cheat sheet
-description: A note on the key Git commands.
-date: 2024-11-13 00:41:16 +0400
-last_modified_at: 2024-11-13 00:41:16 +0400
+title: Move to Canada
+description: In 2025, I moved to Canada alone and start a new life.
+date: 2025-09-01 00:41:16 +0400
+last_modified_at: 2025-09-01 11:41:16 +0400
 published: true
-categories: [Posts, Software Development]
-tags: [Git]
+categories: [Posts, Life]
+tags: [Life]
 mermaid: false
-media_subpath: /assets/media/2024/git-cheat-sheet/
-image: cover.webp
+media_subpath: /assets/img/life/
+image: 20250422_065206.jpg
 ---
 
 ## Introduction
