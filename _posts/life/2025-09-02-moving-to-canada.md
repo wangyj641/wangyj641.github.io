@@ -7,8 +7,7 @@ published: true
 categories: [Posts, Life]
 tags: [Life]
 mermaid: false
-media_subpath: /assets/img/life/
-image: IMG_20250415_165717.jpg
+
 ---
 
 
