@@ -7,7 +7,8 @@ published: true
 categories: [Posts, Life]
 tags: [Life]
 mermaid: false
-![Regina, Spring 2025](/assets/img/life/IMG_20250415_165717.jpg)
+media_subpath: /assets/img/life/
+image: IMG_20250415_165717.jpg
 ---
 
 
